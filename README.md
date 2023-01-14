@@ -1,2 +1,7 @@
 - 👋 Hi, I’m @shiirudev
-https://images-ext-1.discordapp.net/external/mpS-PSTVo2RnIGKIp1s83TEUp9-8uYpj4v14YN4avzc/https/media.tenor.com/5CVn4YakwxcAAAPo/cta-cat.mp4
+
+cat enthusiast
+
+
+https://user-images.githubusercontent.com/106967223/212501976-b3d8ab35-8fae-43c0-a613-001f35a1afbe.mp4
+
