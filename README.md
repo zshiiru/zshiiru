@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @shiirudev
-
-cat enthusiast
-
-
-https://user-images.githubusercontent.com/106967223/212501976-b3d8ab35-8fae-43c0-a613-001f35a1afbe.mp4
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiirudev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
